@@ -1,0 +1,422 @@
+/* General styles */
+body {
+	background-color: #EEE;
+	color: #444;
+	font: normal 15px/20px "Lucida Grande", "Verdana";
+	margin: 0;
+	padding: 0;
+}
+header, section, footer, nav {
+	display: block;
+}
+hr, h1, h2, h3, h4, h5, h6, ul, li, a, p {
+	margin: 0;
+	padding: 0;
+}
+img {
+	border: none;
+}
+a {
+	color: #444;
+	cursor: pointer;
+}
+a:hover {
+	color: #F5834E;
+	text-decoration: none;
+}
+input[type="text"], textarea {
+	background-color: #FFF;
+	border: 1px solid #BBB;
+	padding: 3px;
+}
+/* Font family */
+@font-face {
+    font-family: "futura";
+    src: url("fonts/futura.eot");
+}
+@font-face {
+    font-family: "futura";
+    src: url("fonts/futura.ttf");
+}
+/* End font family */
+
+/* Menu active */
+body#-page #mainmenu #index,
+body#sobre-page  #mainmenu #about,
+body#servicos-page  #mainmenu #services,
+body#produtos-page  #mainmenu #products,
+body#eventos-page  #mainmenu #events,
+body#parceiros-page  #mainmenu #partners,
+body#contato-page  #mainmenu #contact {
+	color: #444;
+}
+/* End menu active */
+
+h1.line {
+	border-bottom: 2px solid #F5834E;
+}
+.main {
+	margin: 0 auto;
+	width: 920px;
+}
+header {
+	margin: 20px 0;
+}
+header .main {
+	background-color: #EEE;
+	height: 50px;
+	position: relative;
+}
+/* End general styles */
+
+
+
+/*#revision {
+	padding-top: 20px;
+}*/
+/* Home styles */
+#mainmenu {
+	float: right;
+}
+#mainmenu ul {
+	list-style: none;
+	height: 30px;
+}
+#mainmenu ul li {
+	cursor: pointer;
+	float: left;
+	margin-left: 1px;
+	padding: 8px 0;
+}
+#mainmenu ul li a {
+	color:#F5834E;
+	font: normal 14px "futura";
+	height:20px;
+	letter-spacing: -1px;
+	padding:8px 12px;
+	text-decoration:none;
+	text-transform: uppercase;
+}
+#mainmenu ul li a.last {
+	padding-right: 0;
+}
+#mainmenu ul li a:hover {
+	color: #444;
+}
+#logo {
+	float: left;
+}
+#destaques {
+	background-color: #FFF;
+	margin-bottom: 10px;
+	min-height: 300px;
+	overflow: hidden;
+	padding: 30px 20px;
+	width: 882px;
+	box-shadow: 1px 1px 10px #CCC;
+}
+#destaques p {
+	line-height: 27px;
+	margin-bottom: 20px;
+}
+#destaques h1,
+#destaques h2,
+#destaques h3,
+#destaques h4,
+#destaques h5 {
+	clear: both;
+	color: #F5834E;
+	font: normal 25px/30px "futura";
+	letter-spacing: -1px;
+	margin-bottom: 20px;
+}
+#destaques h3 {
+	color: #444;
+	font: normal 18px/25px "futura";
+}
+#destaques h4 {
+	color: #444;
+	font: normal 16px/24px "futura";
+	margin-bottom: 10px;
+}
+#destaques h5 {
+	color: #444;
+	font: normal 15px/22px "futura";
+	margin-bottom: 10px;
+}
+#slider {
+	background-color: #F5834E;
+	float: left;
+	height: 290px;
+	margin: 0 44px 0 15px;
+	width: 460px;
+}
+#social-networks {
+	float: left;
+	height: 290px;
+	width: 360px;
+}
+#social-networks p {
+	font-size: 13px;
+	margin-bottom: 25px;
+}
+#social-networks img {
+	padding: 0 10px 0 0;
+	vertical-align: middle;
+}
+#destaques.fnd-home {
+	padding: 20px 40px;
+	width:825px;
+}
+.grid-1, .grid-2 {
+	float: left;
+	margin: 40px 50px 40px 0;
+}
+.grid-1 {
+	width: 430px;
+}
+.grid-2 {
+	margin-right: 0;
+	width: 400px;
+}
+p.testimony {
+	color: #666;
+    font-size: 13px;
+    font-style: italic;
+    line-height: 25px;
+	margin-bottom: 30px;
+}
+p.testimony span {
+	color: #444;
+	font-size: 12px;
+	font-style: normal;
+}
+#twtr-widget-1 {
+	background: url("images/tt-logo.png") no-repeat scroll 340px bottom transparent;
+}
+#twtr-widget-1 .twtr-hd,
+#twtr-widget-1 .twtr-ft {
+	display: none;
+}
+#twtr-widget-1 .twtr-bd p {
+	font-size: 15px;
+}
+#twtr-widget-1 .twtr-tweet {
+	border: none;
+}
+#twtr-widget-1 .twtr-tweet-wrap {
+	padding: 15px;
+}
+#twtr-widget-1 .twtr-timeline {
+	border: 1px solid #DDD;
+}
+#clients li,
+#partners li {
+	float: left;
+	height: 100px;
+	list-style: none;
+	margin: 20px 0;
+	text-align: center;
+	width: 290px;
+}
+#menu-small {
+	margin: 45px 0 20px;
+}
+#menu-small li {
+	color: #F5834E;
+    display: inline;
+	font: normal 16px/30px "futura";
+    list-style: none outside none;
+    padding: 0 20px 0 0;
+}
+#menu-small li a {
+	font: normal 16px/30px "futura";
+	text-decoration: underline;
+}
+/* End home styles */
+
+
+/* About styles */
+.time,
+.events {
+	border-bottom: 1px dashed #CCCCCC;
+    margin: 0 0 10px;
+    overflow: hidden;
+    padding: 20px 0;
+}
+.time h3,
+.events h3 {
+	color: #333333;
+    font-size: 17px;
+    margin: 0;
+}
+.time div {
+	border: 1px solid #CCCCCC;
+    box-shadow: 1px 1px 5px #888888;
+    float: left;
+    margin: 10px 5px;
+    padding: 5px 0 1px;
+    text-align: center;
+    width: 80px;
+}
+.time div img {
+	width: 70px;
+}
+.time p {
+	font-size: 13px;
+	margin: 10px 0 10px 100px;
+}
+/* End about styles */
+
+/* Services styles */
+ul.summary {
+    background-color: #eee;
+	list-style: none;
+	margin: 0 0 40px 0;
+	padding: 10px 20px 1px;
+} 
+ul.summary li {
+	color: #666;
+	margin: 0 0 30px 0;
+}
+ul.summary ul li {
+    list-style-type: square;
+    margin: 4px 40px;
+}
+ul.topics {
+    margin: 0 0 40px 0;
+}
+ul.topics li {
+    margin: 0 40px;
+}
+ul.topics li p {
+    color: #666;
+	font-size: 12px;
+	line-height: 14px !important;
+	margin-bottom: 6px !important;
+}
+ul.topics li h5 {
+    margin-bottom: 2px !important;
+}
+.desc-images {
+    text-align: center;
+}
+.services h3 {
+    color: #F5834E !important;
+}
+.divisor {
+    border-top: 1px dashed #ccc;
+    padding-top: 10px;
+}
+/* End services styles */
+
+
+/* Events styles */
+.events div {
+	float: left;
+    margin: 0 15px 0 0;
+	width: 150px;
+}
+.events div img {
+	width:  150px;
+}
+/* End events styles */
+
+
+/* Products styles */
+#destaques .product {
+	clear: both;
+	padding: 20px 0;
+}
+#destaques .product img {
+	float: left;
+}
+#destaques .product .preview {
+	margin: 0;
+}
+#destaques .product section {
+	clear: both;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+.products {
+	border-bottom: 1px dashed #CCC;
+	margin: 0 0 50px;
+	padding: 0 0 20px;
+}
+.products .picture {
+	height: 232px;
+	margin: 0 0 20px;
+	overflow: hidden;
+}
+.products .picture:hover img {
+	margin-top: -231px;
+}
+/* End products styles */
+
+
+/* Contact styles */
+#infos, #map {
+	float: left;
+}
+#infos h3 {
+	margin: 0 0 8px;
+}
+#map {
+	float: right;
+	margin-top: 20px;
+}
+/* End products styles */
+
+
+
+/* Footer styles */
+footer {
+	background-color: #666;
+	clear: both;
+	color: #EEE;
+	font: normal 14px "futura";
+	line-height: 22px;
+	margin-top: 20px;
+	min-height: 150px;
+	min-width: 965px;
+	overflow: hidden;
+	padding: 20px;
+}
+footer a {
+	color: #F5834E;
+	font: normal 14px "futura";
+}
+footer p {
+	line-height: 27px;
+}
+#videoBar-bar {
+	margin: 20px 0;
+}
+#minimenu, #info, address {
+	float: left;
+	margin-right: 120px;
+}
+#minimenu a {
+	display: block;
+	height:20px;
+	letter-spacing: -1px;
+	padding:4px 11px;
+	text-decoration:none;
+	text-transform: uppercase;
+}
+#minimenu ul {
+	list-style: none;
+}
+address {
+	float: right;
+	font-style: normal;
+	width: 310px;
+	margin: 0;
+}
+#destaques address {
+	float: left;
+	font-size: 13px;
+	width: 100%;
+	margin: 20px 0 40px;
+}

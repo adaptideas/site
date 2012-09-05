@@ -1,0 +1,15 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^sobre/$ /sobre [R]
+RewriteRule ^servicos/$ /servicos [R]
+RewriteRule ^produtos/$ /produtos [R]
+RewriteRule ^eventos/$ /eventos [R]
+RewriteRule ^parceiros/$ /parceiros [R]
+RewriteRule ^contato/$ /contato [R]
+RewriteRule ^sobre$ sobre.php [L]
+RewriteRule ^servicos$ servicos.php [L]
+RewriteRule ^produtos$ produtos.php [L]
+RewriteRule ^eventos$ eventos.php [L]
+RewriteRule ^parceiros$ parceiros.php [L]
+RewriteRule ^contato$ contato.php [L]
