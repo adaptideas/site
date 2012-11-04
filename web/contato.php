@@ -1,7 +1,5 @@
 <?php include("common/header.php"); ?>
 
-<!-- aux -->
-
 <div class="main">
 	<section id="destaques" class="mark">
 		<h1 class="line">Entre em contato</h1>
