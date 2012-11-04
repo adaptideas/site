@@ -15,10 +15,6 @@
 		<p><a href="#" title="Ir para Google+" target="_blank"><img src="images/googleplus_icon.png" alt="Google+" /></a> AdaptIdeas no <a href="#" title="Ir para Google+" target="_blank">Google+</a></p>
 	</section>
 	<div class="grid-1">
-		<h1>Depoimentos de Clientes</h1>
-		<p class="testimony">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et viverra urna. Aenean blandit tortor dignissim mi porta blandit. Aenean pharetra tortor nec sem fermentum convallis."<br /><span>Mark Zuckerberg, CEO Facebook.</span></p>
-		<p class="testimony">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et viverra urna. Aenean blandit tortor dignissim mi porta blandit. Aenean pharetra tortor nec sem fermentum convallis."<br /><span>Mark Zuckerberg, CEO Facebook.</span></p>
-		<p class="testimony">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et viverra urna. Aenean blandit tortor dignissim mi porta blandit. Aenean pharetra tortor nec sem fermentum convallis."<br /><span>Mark Zuckerberg, CEO Facebook.</span></p>
 	</div>
 	<div class="grid-2">
 		<h1>Twitter</h1>
@@ -54,8 +50,6 @@
 	<h1>Clientes</h1>
 	<ul id="clients">
 		<li><img src="http://www.rdgseguros.com.br/image/porto.jpg" alt="cliente 1" /></li>
-		<li><img src="http://www.rdgseguros.com.br/image/porto.jpg" alt="cliente 2" /></li>
-		<li><img src="http://www.rdgseguros.com.br/image/porto.jpg" alt="cliente 3" /></li>
 	</ul>
 </section>
 	
