@@ -9,7 +9,7 @@
 	<meta name="keywords" content="AdaptIdeas, ProcurandoCursos, Procurando Cursos, E-lixo, Elixo" />
 	<meta name="robots" content="follow, all" />
 	
-	<link rel="stylesheet" href="css/ai.css" />
+	<link rel="stylesheet" href="css/ai.css?v=1" />
 	<link rel="stylesheet" href="css/orbit-1.2.3.css" />	
 	
 	<title>AdaptIdeas</title>
