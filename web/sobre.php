@@ -21,7 +21,7 @@
 			<div class="time">
 				<h3>Fabiano Milani</h3>
 				<div>
-					<img src="http://www.adaptworks.com.br/images/fotos/fmilani.jpg" alt="" />
+					<img src="/images/fabiano.jpg" alt="" />
 				</div>
 				<p>&Eacute; Agile Coah e L&iacuteder na <strong>AdaptIdeas</strong> e co-fundador da <strong>AdaptWorks</strong>, com mais de 15 anos de experi&ecirc;ncia na &aacute;rea de T.I., &eacute; Certified ScrumMaster e Certified Scrum Professional pela Scrum Alliance e Certified Personal e Professional Coach pela Sociedade Brasileira de Coaching. Graduado em Matem&aacute;tica Plena Licenciatura e Bacharel em Inform&aacute;tica, vem participando de projetos de variadas dimens&otilde;es de lead time, escopo e investimento, j&aacute; atuou como instrutor, desenvolvedor e coordenador de desenvolvimento. Atualmente &eacute; Diretor Executivo da <strong>AdaptIdeas</strong> e faz parte do time da <strong>AdaptWorks</strong> atuando como Trainer. </p>
 				<p>&Eacute; palestrante dos principais eventos nacionais de agilidade sobre Scrum, Metodologias &Aacute;geis, Coaching e Lideran&ccedil;a em eventos como Scrum Gathering, Agile Brazil, AgileTour, Agile Vale, EDTED – Encontro de Design em Tecnologia Digital e FATE Tecnologia, trazendo na bagagem v&aacute;rias experi&ecirc;ncias de aplica&ccedil;&atilde;o de Scrum e/ou outros m&eacute;todos &aacute;geis em empresas como seguradora, ag&ecirc;ncias de marketing, f&aacute;brica de software e institui&ccedil;&otilde;es financeiras.</p>
@@ -31,7 +31,7 @@
 			<div class="time">
 				<h3>Jonas Abreu</h3>
 				<div>
-					<img src="http://www.adaptworks.com.br/images/fotos/jabreu.jpg" alt="" />
+					<img src="/images/jonas.jpg" alt="" />
 				</div>
 				<p>&Eacute; L&iacute;der T&eacute;cnico na <strong>Adaptideas</strong> e desenvolvedor <a href="https://github.com/vidageek">apaixonado por OpenSource</a>, j&aacute; trabalhou como desenvolvedor, consultor e instrutor de Java e Desenvolvimento &Aacute;gil. <br />
 				Co-fundador do blog <strong><a href="http://vidageek.net/">VidaGeek.net</a></strong>, tamb&eacute;m j&aacute; deu palestras por v&aacute;rios eventos nacionais e internacionais, como &Aacute;giles, EDTED e AgileBrazil. <br />
