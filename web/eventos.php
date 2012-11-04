@@ -6,7 +6,7 @@
 		<section class="events">
 			<h3>Agile Brasil 2012</h3>
 			<div>
-				<img src="http://www.agilebrazil.com/2012/imagens/logo_2012_h.png" alt="" />
+				<img src="/images/agilebrazil2012.jpg" alt="" />
 			</div>
 			<p>A Agile Brazil &eacute; a mais relevante confer&ecirc;ncia brasileira sobre M&eacute;todos &Aacute;geis de desenvolvimento de software.</p>
 		</section>
