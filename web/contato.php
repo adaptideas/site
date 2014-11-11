@@ -15,7 +15,7 @@
 			<p><a href="mailto:contato@adaptideas.com.br">contato@adaptideas.com.br</a></p>
 			
 			<h3>Trabalhe conosco:</h3>
-			<p>Envie seu currículo com Linkedin<br /> para <a href="mailto:carreira@adaptideas.com.br">carreira@adaptideas.com.br</a></p>
+			<p>Envie seu currículo com Linkedin<br /> para <a href="mailto:contato@adaptideas.com.br">contato@adaptideas.com.br</a></p>
 			
 		</section>
 		<section id="map">
